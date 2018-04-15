@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TH_Sensor</string>
+    <string name="activity">Activity :</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_count">0</string>
+    <string name="enter_activity">0</string>
+    <string name="enter_humidity">0</string>
+    <string name="enter_temp">0</string>
+    <string name="generate">Generate</string>
+    <string name="humidity">Humidity :</string>
+    <string name="number_of_sensor_readings">Number of Sensor Readings :</string>
+    <string name="output">Output :</string>
+    <string name="th_sensor_driver">TH Sensor Driver</string>
+    <string name="temperature">Temperature :</string>
+</resources>
